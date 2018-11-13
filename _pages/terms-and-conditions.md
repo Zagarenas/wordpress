@@ -1,0 +1,54 @@
+---
+ID: 880
+post_title: Terms and Conditions
+author: admin
+post_excerpt: ""
+layout: page
+permalink: >
+  https://naikair.com/terms-and-conditions/
+published: true
+post_date: 2018-11-01 14:39:09
+---
+<h1 style="text-align: center;"><strong>Terms &amp; Conditions</strong></h1>
+<div class="content">
+
+These terms and conditions of use (the “terms”) set forth the terms on which Naikair provides you access to this web site (“Site”). You should read the terms carefully before using the site. By using the site, you acknowledge that you have read and that you agree to abide by the terms, including the privacy policy incorporated herein by reference. If at any time you no longer agree to be bound by these terms, you should immediately cease use of this site.
+<h2 style="text-align: left;"><strong>Disclaimer</strong></h2>
+You expressly acknowledge that your use of this site is at your sole risk. Naikair is providing this site and its contents on an “as is, as available” basis and makes no representations of warranties of any kind with respect to this site or its contents. To the maximum extent permitted by law, Naikair disclaims all such representations and warranties, including but not limited to warranties of merchantability and fitness for a particular purpose – some jurisdictions do not allow the exclusion of implied warranties in certain circumstances, so the above exclusion may not apply to you. In addition, Naikair does not represent or warrant that the information or merchandise provided through this site is accurate, complete or current.
+
+Products, price and availability information are subject to change at any time without notice. The prices listed on this Site are not offers to form a contract but merely an advertisement for offers. Except as specifically stated on this Site, under no legal theory, tort, contract or otherwise shall Naikair nor any of its directors, officers, employees, related companies, subsidiaries, merchants, content providers or any other party involved in the creation or maintenance of this site be liable for the following arising out of or in connection with the use of or inability to use this site: indirect or consequential damages, loss of data, income or profit, loss of or damage to property and claims of third parties. Some jurisdictions prohibit the exclusion or limitation of liability for consequential or incidental damages. Accordingly, the limitations and exclusions set forth above may not apply to you. Naikair also assumes no responsibility, and shall not be liable for any damages to, or viruses that may infect, your computer equipment or other property on account of your access to, use of, or browsing in the Site or your downloading of any materials, data, text, images, video, or audio from the Site.
+<h2 style="text-align: left;"><strong>Promotional offers, contests, and sweepstakes</strong></h2>
+Naikair reserves the right to cancel any transaction due to unauthorized, altered, fraudulent, or ineligible use of discount and to modify or cancel this promotion due to system error or unforeseen problems at any time. Please read the official rules that may accompany each promotion, offer, coupon, discount, contest and/or sweepstakes. Promotional offers and discounts do not apply to gift cards, shipping and handling, or taxes. Discounts will appear upon checkout and may or may not be eligible to be combined with any other offers or discounts. Special offers, coupons, or discounts cannot be used in conjunction with other offers unless specifically stated in offer official rules.
+<h2 style="text-align: left;"><strong>Pricing Errors</strong></h2>
+We work hard to keep pricing up-to-date and accurate at the time of purchase. In the rare event that a pricing error occurs, we will work to rectify the issue as quickly as possible. If you place an order on an item where there has been a pricing error, you will be notified as soon as we realize the error, which will typically during our fulfillment process. We reserve the right to cancel your order under these circumstances.
+<h2 style="text-align: left;"><strong>Trademarks</strong></h2>
+Naikair is a registered trademark in the United States and other countries. Naikai trademarks may not be used without the written permission of Naikair and specifically should not be used in connection with any other product or service, or in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Naikair.
+<p style="text-align: left;">Any rights not expressly granted herein are reserved.</p>
+
+<h2 style="text-align: left;"><strong>Copyright and proprietary rights</strong></h2>
+All information, including, without limitation the design of the Site, and all information, text, graphics, images, illustrations, logos, designs, icons, photographs, video clips, and written or other materials software and all HTML, CGI and other codes and scripts in any format used to implement, or featured on, the Site (‘Content’) are the property of Naikair, its merchandise suppliers, or its licensors. The overall design and appearance of this Site is the proprietary trade dress of Naikair.
+
+The Content of this Site is for personal use only. Permission is granted to electronically copy and to print in hard copy portions of this Site for the sole purpose of placing an order with Naikair. You may not copy, modify, upload, download, transmit, (re)publish, create derivative works from, sell, re-sell or otherwise distribute or exploit any Content from the Site except as expressly permitted by these Terms. Doing so will violate Naikair' copyright, trademark and other proprietary rights.
+<p style="text-align: left;">All Content on the Site is protected by United States copyright, trademark and other laws and applicable international treaties and conventions governing intellectual property law. Any and all trademarks, logos, page headers, custom graphics, photographs, button bars, service marks and trade names which Naikair uses in connection with the Site shall remain the exclusive property of Naikair. Nothing contained in the Terms shall be deemed to give you any rights in or to any intellectual property of Naikair. All other trademarks, product names and company names or logos on the Site are the property of their respective owners.</p>
+
+<h2 style="text-align: left;"><strong>Communications provided by user</strong></h2>
+Any communication or material you transmit to the Site by electronic mail or otherwise, including any data, questions, comments, suggestions, or the like is, and will be treated as, non-confidential and non-proprietary. Anything you transmit or post may be used by Naikair or its affiliates for any purpose, including but not limited to reproduction, disclosure, transmission, publication, broadcast, and posting. Furthermore, Naikair is free to use any ideas, concepts, know-how, or techniques contained in any communication you send to the Site for any purpose whatsoever, including but not limited to developing, manufacturing and marketing products using such information. By posting any communication or material on the site, you grant Naikair and its affiliates a non-exclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such reviews and comments in an unlimited manner. You also grant Naikair and its affiliates and sublicensees the right to use the name that you submit with any review or comment, if any, in connection with such communication.
+<h2 style="text-align: left;"><strong>Site Contents</strong></h2>
+<h3 style="text-align: left;"><strong>Links to third party sites</strong></h3>
+The Site may contain links to other Web Sites (“Linked Sites”). The Linked Sites are not under the control of Naikair and it is not responsible for the contents of any Linked Site, including without limitation, any link contained in a Linked Site, or any changes or updates to a Linked Site. Naikair is not responsible for webcasting or any other form of transmission received from any Linked Site. Naikair is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by Naikair of the Linked Site or any association with its operators.
+<h2 style="text-align: left;"><strong>Shopping</strong></h2>
+<p style="text-align: left;">Naikair.com does not guarantee, warrant or endorse any product or service not manufactured or performed by Naikair, nor do we have any liability or responsibility for the quality or performance of any product or service not manufactured or performed by Naikair. You hereby agree to supervise usage by, and be responsible for the actions of, any minors who use your computer and/or registration account to access Naikair.</p>
+
+<h2 style="text-align: left;"><strong>Order Acceptance</strong></h2>
+The receipt of an e-mail order confirmation does not constitute the acceptance of an order or a confirmation of an offer to sell. Naikair reserves the right, without prior notification, to limit the order quantity on any item and/or refuse service to any customer. Verification of information may be required prior to the acceptance of any order.
+<h2 style="text-align: left;"><strong>Color</strong></h2>
+<p style="text-align: left;">We have made every effort to display as accurately as possible the colors of the advertised products that appear at the Site. However, the actual colors you see will depend on your monitor. We cannot guarantee that your monitor will display any color accurately.</p>
+
+<h2 style="text-align: left;"><strong>Privacy</strong></h2>
+Naikair agrees to adhere to all applicable United States federal and state laws, statutes, and regulations relating to the collection and use of personal information from Site visitors.
+<h2 style="text-align: left;"><strong>Indemnification</strong></h2>
+You agree to defend, indemnify and hold Naikair harmless and against any and all claims, damages, costs and expenses, including attorneys’ fees, arising from or related to your use of the Site.
+<h2 style="text-align: left;"><strong>Termination</strong></h2>
+Naikair reserves the right, in its sole discretion, to terminate your right to use the Site and any rights provided to you under these terms at any time, without notice, and accordingly deny you access to the Site, if you fail to comply with any term or provision. Upon termination, you must promptly destroy all materials downloaded or otherwise obtained from this Site, as well as all copies of such materials.
+
+</div>
